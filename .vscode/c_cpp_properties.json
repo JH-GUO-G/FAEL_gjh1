@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/gjh/FAEL/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/gjh/FAEL/src/FAEL/fael_planner/control_planner_interface/include/**",
+        "/home/gjh/FAEL/src/FAEL/fael_planner/exploration_manager/include/**",
+        "/home/gjh/FAEL/src/FAEL/3rdparty/fly_sim/mav_comm/mav_msgs/include/**",
+        "/home/gjh/FAEL/src/FAEL/fael_planner/robot_move/path_execution/include/**",
+        "/home/gjh/FAEL/src/FAEL/fael_planner/planner/include/**",
+        "/home/gjh/FAEL/src/FAEL/3rdparty/rosserial/rosserial_server/include/**",
+        "/home/gjh/FAEL/src/FAEL/3rdparty/fly_sim/rotors_fly/rotors_control/include/**",
+        "/home/gjh/FAEL/src/FAEL/3rdparty/fly_sim/rotors_fly/rotors_gazebo_plugins/include/**",
+        "/home/gjh/FAEL/src/FAEL/fael_planner/sensor_conversion/include/**",
+        "/home/gjh/FAEL/src/FAEL/fael_planner/robot_move/traversability_analysis/include/**",
+        "/home/gjh/FAEL/src/FAEL/3rdparty/ufomap/ufomap/include/**",
+        "/home/gjh/FAEL/src/FAEL/3rdparty/ufomap/ufomap_ros/ufomap_manager/include/**",
+        "/home/gjh/FAEL/src/FAEL/3rdparty/ufomap/ufomap_ros/ufomap_mapping/include/**",
+        "/home/gjh/FAEL/src/FAEL/3rdparty/ufomap/ufomap_ros/ufomap_msgs/include/**",
+        "/home/gjh/FAEL/src/FAEL/3rdparty/ufomap/ufomap_ros/ufomap_ros/include/**",
+        "/home/gjh/FAEL/src/FAEL/3rdparty/ufomap/ufomap_ros/ufomap_rviz_plugins/include/**",
+        "/home/gjh/FAEL/src/FAEL/fael_planner/visualization_tools/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
