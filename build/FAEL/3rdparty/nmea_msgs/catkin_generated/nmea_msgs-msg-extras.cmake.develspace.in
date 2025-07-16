@@ -1,0 +1,2 @@
+set(nmea_msgs_MESSAGE_FILES "/home/gjh/FAEL/src/FAEL/3rdparty/nmea_msgs/msg/Gpgga.msg;/home/gjh/FAEL/src/FAEL/3rdparty/nmea_msgs/msg/Gpgsa.msg;/home/gjh/FAEL/src/FAEL/3rdparty/nmea_msgs/msg/Gpgsv.msg;/home/gjh/FAEL/src/FAEL/3rdparty/nmea_msgs/msg/GpgsvSatellite.msg;/home/gjh/FAEL/src/FAEL/3rdparty/nmea_msgs/msg/Gprmc.msg;/home/gjh/FAEL/src/FAEL/3rdparty/nmea_msgs/msg/Gpgst.msg;/home/gjh/FAEL/src/FAEL/3rdparty/nmea_msgs/msg/Sentence.msg")
+set(nmea_msgs_SERVICE_FILES "")

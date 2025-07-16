@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/gjh/FAEL/devel/lib/libufomap_ros.a  CMakeFiles/ufomap_ros.dir/src/conversions.cpp.o
+/usr/bin/ranlib /home/gjh/FAEL/devel/lib/libufomap_ros.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/gjh/FAEL/devel/lib/libufomap_msgs.a  CMakeFiles/ufomap_msgs.dir/src/conversions.cpp.o
+/usr/bin/ranlib /home/gjh/FAEL/devel/lib/libufomap_msgs.a
